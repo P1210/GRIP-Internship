@@ -1,4 +1,4 @@
-# Sparks-Internship
+# Internship tasks
 
 Data Science and Business Analytics Internship at the Sparks Foundation.
 
